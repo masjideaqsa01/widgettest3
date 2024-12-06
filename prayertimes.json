@@ -1,0 +1,130 @@
+    {
+
+    "December": {
+        "1": { 
+            "fajr": "5:04 AM", "sunrise": "6:20 AM", "zuhr": "11:57 AM", "asr": "3:10 PM", "maghrib": "5:34 PM", "isha": "6:50 PM",
+            "hijri": { "day": 27, "month": "Jumādā al-Awwal" }                 
+        },
+        "2": { 
+            "fajr": "5:05 AM", "sunrise": "6:20 AM", "zuhr": "11:58 AM", "asr": "3:10 PM", "maghrib": "5:34 PM", "isha": "6:50 PM",
+            "hijri": { "day": 28, "month": "Jumādā al-Awwal" }
+        },
+        "3": { 
+            "fajr": "5:05 AM", "sunrise": "6:21 AM", "zuhr": "11:58 AM", "asr": "3:10 PM", "maghrib": "5:34 PM", "isha": "6:50 PM",
+            "hijri": { "day": 29, "month": "Jumādā al-Awwal" }
+        },
+        "4": { 
+            "fajr": "5:06 AM", "sunrise": "6:21 AM", "zuhr": "11:58 AM", "asr": "3:11 PM", "maghrib": "5:34 PM", "isha": "6:51 PM",
+            "hijri": { "day": 1, "month": "Jumādā al-Akhirah" }
+        },
+        "5": { 
+            "fajr": "5:06 AM", "sunrise": "6:22 AM", "zuhr": "11:59 AM", "asr": "3:11 PM", "maghrib": "5:34 PM", "isha": "6:51 PM",
+            "hijri": { "day": 2, "month": "Jumādā al-Akhirah" }
+        },
+        "6": { 
+            "fajr": "5:07 AM", "sunrise": "6:23 AM", "zuhr": "11:59 AM", "asr": "3:11 PM", "maghrib": "5:35 PM", "isha": "6:51 PM",
+            "hijri": { "day": 3, "month": "Jumādā al-Akhirah" }
+        },
+        "7": { 
+            "fajr": "5:08 AM", "sunrise": "6:23 AM", "zuhr": "12:00 PM", "asr": "3:12 PM", "maghrib": "5:35 PM", "isha": "6:52 PM",
+            "hijri": { "day": 4, "month": "Jumādā al-Akhirah" }
+        },
+        "8": { 
+            "fajr": "5:08 AM", "sunrise": "6:24 AM", "zuhr": "12:00 PM", "asr": "3:12 PM", "maghrib": "5:35 PM", "isha": "6:52 PM",
+            "hijri": { "day": 5, "month": "Jumādā al-Akhirah" }
+        },
+        "9": { 
+            "fajr": "5:09 AM", "sunrise": "6:24 AM", "zuhr": "12:00 PM", "asr": "3:12 PM", "maghrib": "5:36 PM", "isha": "6:52 PM",
+            "hijri": { "day": 6, "month": "Jumādā al-Akhirah" }
+        },        
+        "10": { 
+            "fajr": "5:09 AM", "sunrise": "6:25 AM", "zuhr": "12:01 PM", "asr": "3:13 PM", "maghrib": "5:36 PM", "isha": "6:53 PM",
+            "hijri": { "day": 7, "month": "Jumādā al-Akhirah" }
+        },
+        "11": { 
+            "fajr": "5:10 AM", "sunrise": "6:25 AM", "zuhr": "12:01 PM", "asr": "3:13 PM", "maghrib": "5:36 PM", "isha": "6:53 PM",
+            "hijri": { "day": 8, "month": "Jumādā al-Akhirah" }
+        },
+        "12": { 
+            "fajr": "5:10 AM", "sunrise": "6:26 AM", "zuhr": "12:02 PM", "asr": "3:13 PM", "maghrib": "5:37 PM", "isha": "6:54 PM",
+            "hijri": { "day": 9, "month": "Jumādā al-Akhirah" }
+        },
+        "13": { 
+            "fajr": "5:11 AM", "sunrise": "6:27 AM", "zuhr": "12:02 PM", "asr": "3:14 PM", "maghrib": "5:37 PM", "isha": "6:54 PM",
+            "hijri": { "day": 10, "month": "Jumādā al-Akhirah" }
+        },
+        "14": { 
+            "fajr": "5:11 AM", "sunrise": "6:27 AM", "zuhr": "12:03 PM", "asr": "3:14 PM", "maghrib": "5:37 PM", "isha": "6:54 PM",
+            "hijri": { "day": 11, "month": "Jumādā al-Akhirah" }
+        },
+        "15": { 
+            "fajr": "5:12 AM", "sunrise": "6:28 AM", "zuhr": "12:03 PM", "asr": "3:15 PM", "maghrib": "5:38 PM", "isha": "6:55 PM",
+            "hijri": { "day": 12, "month": "Jumādā al-Akhirah" }
+        },
+        "16": { 
+            "fajr": "5:12 AM", "sunrise": "6:28 AM", "zuhr": "12:04 PM", "asr": "3:15 PM", "maghrib": "5:38 PM", "isha": "6:55 PM",
+            "hijri": { "day": 13, "month": "Jumādā al-Akhirah" }
+        },
+        "17": { 
+            "fajr": "5:13 AM", "sunrise": "6:29 AM", "zuhr": "12:04 PM", "asr": "3:15 PM", "maghrib": "5:39 PM", "isha": "6:56 PM",
+            "hijri": { "day": 14, "month": "Jumādā al-Akhirah" }
+        },
+        "18": { 
+            "fajr": "5:13 AM", "sunrise": "6:29 AM", "zuhr": "12:05 PM", "asr": "3:16 PM", "maghrib": "5:39 PM", "isha": "6:56 PM",
+            "hijri": { "day": 15, "month": "Jumādā al-Akhirah" }
+        },
+        "19": { 
+            "fajr": "5:14 AM", "sunrise": "6:30 AM", "zuhr": "12:05 PM", "asr": "3:16 PM", "maghrib": "5:40 PM", "isha": "6:57 PM",
+            "hijri": { "day": 16, "month": "Jumādā al-Akhirah" }
+        },
+        "20": { 
+            "fajr": "5:14 AM", "sunrise": "6:30 AM", "zuhr": "12:06 PM", "asr": "3:17 PM", "maghrib": "5:40 PM", "isha": "6:57 PM",
+            "hijri": { "day": 17, "month": "Jumādā al-Akhirah" }
+        },
+        "21": { 
+            "fajr": "5:15 AM", "sunrise": "6:31 AM", "zuhr": "12:06 PM", "asr": "3:17 PM", "maghrib": "5:41 PM", "isha": "6:58 PM",
+            "hijri": { "day": 18, "month": "Jumādā al-Akhirah" }
+        },
+        "22": { 
+            "fajr": "5:15 AM", "sunrise": "6:31 AM", "zuhr": "12:07 PM", "asr": "3:18 PM", "maghrib": "5:41 PM", "isha": "6:58 PM",
+            "hijri": { "day": 19, "month": "Jumādā al-Akhirah" }
+        },
+        "23": { 
+            "fajr": "5:16 AM", "sunrise": "6:32 AM", "zuhr": "12:07 PM", "asr": "3:18 PM", "maghrib": "5:42 PM", "isha": "6:59 PM",
+            "hijri": { "day": 20, "month": "Jumādā al-Akhirah" }
+        },
+        "24": { 
+            "fajr": "5:16 AM", "sunrise": "6:32 AM", "zuhr": "12:08 PM", "asr": "3:19 PM", "maghrib": "5:42 PM", "isha": "6:59 PM",
+            "hijri": { "day": 21, "month": "Jumādā al-Akhirah" }
+        },
+        "25": { 
+            "fajr": "5:17 AM", "sunrise": "6:33 AM", "zuhr": "12:08 PM", "asr": "3:19 PM", "maghrib": "5:43 PM", "isha": "7:00 PM",
+            "hijri": { "day": 22, "month": "Jumādā al-Akhirah" }
+        },
+        "26": { 
+            "fajr": "5:17 AM", "sunrise": "6:33 AM", "zuhr": "12:09 PM", "asr": "3:20 PM", "maghrib": "5:43 PM", "isha": "7:00 PM",
+            "hijri": { "day": 23, "month": "Jumādā al-Akhirah" }
+        },
+        "27": { 
+            "fajr": "5:18 AM", "sunrise": "6:34 AM", "zuhr": "12:09 PM", "asr": "3:21 PM", "maghrib": "5:44 PM", "isha": "7:01 PM",
+            "hijri": { "day": 24, "month": "Jumādā al-Akhirah" }
+        },
+        "28": { 
+            "fajr": "5:18 AM", "sunrise": "6:34 AM", "zuhr": "12:10 PM", "asr": "3:21 PM", "maghrib": "5:44 PM", "isha": "7:01 PM",
+            "hijri": { "day": 25, "month": "Jumādā al-Akhirah" }
+        },
+        "29": { 
+            "fajr": "5:18 AM", "sunrise": "6:34 AM", "zuhr": "12:10 PM", "asr": "3:22 PM", "maghrib": "5:45 PM", "isha": "7:02 PM",
+            "hijri": { "day": 26, "month": "Jumādā al-Akhirah" }
+        },
+        "30": { 
+            "fajr": "5:19 AM", "sunrise": "6:35 AM", "zuhr": "12:11 PM", "asr": "3:22 PM", "maghrib": "5:46 PM", "isha": "7:02 PM",
+            "hijri": { "day": 27, "month": "Jumādā al-Akhirah" }
+        },
+        "31": { 
+            "fajr": "5:19 AM", "sunrise": "6:35 AM", "zuhr": "12:11 PM", "asr": "3:23 PM", "maghrib": "5:46 PM", "isha": "7:03 PM",
+            "hijri": { "day": 28, "month": "Jumādā al-Akhirah" }
+        }
+    }
+    
+    };
